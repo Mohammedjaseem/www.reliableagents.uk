@@ -459,7 +459,7 @@ ol li {
 .section-bg-2,
 .section-bg-6,
 .section-bg-7 {
-  background-color: var(--section-bg-2); }
+  background-color: #01bda6; }
   .section-bg-2 h1,
   .section-bg-2 h2,
   .section-bg-2 h3,
@@ -14311,21 +14311,27 @@ input.cart-plus-minus-box {
   position: relative;
   z-index: 1;
   margin-right: 15px; }
+
   .btn:last-child {
+    border-radius: 10px;
     margin-right: 0; }
 
 .theme-btn-1 {
   background-color: var(--ltn__secondary-color);
   color: var(--white); }
+  border-radius: 10px;
   .theme-btn-1:hover {
     background-color: var(--ltn__primary-color);
+    border-radius: 10px;
     color: var(--white); }
 
 .theme-btn-2 {
   background-color: var(--ltn__primary-color);
+  border-radius: 10px;
   color: var(--white); }
   .theme-btn-2:hover {
     background-color: var(--ltn__secondary-color);
+    border-radius: 10px;
     color: var(--white); }
 
 .theme-btn-3 {
@@ -14333,6 +14339,7 @@ input.cart-plus-minus-box {
   border: 2px solid var(--border-color-9); }
   .theme-btn-3:hover {
     background-color: var(--ltn__secondary-color);
+    border-radius: 10px;
     border-color: var(--ltn__secondary-color);
     color: var(--white); }
 
