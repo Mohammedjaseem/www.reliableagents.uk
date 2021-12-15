@@ -165,7 +165,7 @@ return t=a?function(t){return t&&a(r(t))}:function(t){return t&&r(t)}}function e
   10. Countdown jQuery
 ---------------------------------------------------------------*/
 /*!
- * The Final Countdown for jQuery v2.2.0 (http://hilios.github.io/jQuery.countdown/)
+ * The Final Countdown for jQuery v2.2.0(http://hilios.github.io/jQuery.countdown/)
  * Copyright (c) 2016 Edson Hilios
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy of
