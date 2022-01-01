@@ -86,6 +86,19 @@ font-family: 'Poppins', sans-serif;
   border-radius: 12px;
 }
 
+.buttonofjassy2 {
+  background-color: #f01616;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
+
 .container,
 .container-fluid {
   padding-right: 15px;
